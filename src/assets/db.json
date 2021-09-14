@@ -1,0 +1,118 @@
+{
+    "cards": [
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "Louis Creta",
+            "price": 225,
+            "count": 2,
+            "days": 7
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_14.png",
+            "title": "Cyprotel Corfu",
+            "price": 355,
+            "count": 4,
+            "days": 6
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "El Greco",
+            "price": 125,
+            "count": 3,
+            "days": 9
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_17.png",
+            "title": "Cyprotel Corfu",
+            "price": 155,
+            "count": 5,
+            "days": 7
+        }
+    ],
+    "carsss": [
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "Louis Creta",
+            "price": 25,
+            "count": 5,
+            "days": 7
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_14.png",
+            "title": "Cyprotel Corfu",
+            "price": 55,
+            "count": 4,
+            "days": 6
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "El Greco",
+            "price": 125,
+            "count": 3,
+            "days": 9
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_17.png",
+            "title": "Cyprotel Corfu",
+            "price": 175,
+            "count": 2,
+            "days": 7
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "Louis Creta",
+            "price": 225,
+            "count": 5,
+            "days": 7
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_14.png",
+            "title": "Cyprotel Corfu",
+            "price": 395,
+            "count": 4,
+            "days": 6
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "El Greco",
+            "price": 195,
+            "count": 3,
+            "days": 9
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_17.png",
+            "title": "Cyprotel Corfu",
+            "price": 155,
+            "count": 4,
+            "days": 7
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "Louis Creta",
+            "price": 455,
+            "count": 5,
+            "days": 7
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_14.png",
+            "title": "Cyprotel Corfu",
+            "price": 425,
+            "count": 4,
+            "days": 6
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_13.png",
+            "title": "El Greco",
+            "price": 125,
+            "count": 3,
+            "days": 9
+        },
+        {
+            "src": "assets/img/img_hotel/Layer_17.png",
+            "title": "Cyprotel Corfu",
+            "price": 155,
+            "count": 2,
+            "days": 7
+        }
+    ]
+}
